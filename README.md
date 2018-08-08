@@ -1,1 +1,1 @@
-API in Node.js, Express.jx and MongoDB
+API in Node.js, Express.js and MongoDB

@@ -1,0 +1,37 @@
+{
+  "name": "meanapi",
+  "version": "1.0.0",
+  "description": "API REST",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mskinho/meanAPI.git"
+  },
+  "keywords": [
+    "API",
+    "API",
+    "Node.js"
+  ],
+  "author": "MSantana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mskinho/meanAPI/issues"
+  },
+  "homepage": "https://github.com/mskinho/meanAPI#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.17.2",
+    "common-js": "^0.3.8",
+    "cors": "^2.8.3",
+    "express": "^4.15.3",
+    "jsonwebtoken": "^7.4.1",
+    "lodash": "^4.17.10",
+    "mongoose": "^5.2.7",
+    "multer": "^1.3.1",
+    "socket.io": "^2.1.0",
+    "underscore": "^1.9.1"
+  }
+}
